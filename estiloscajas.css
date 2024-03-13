@@ -1,0 +1,135 @@
+.principal
+{
+    border-color: red;
+    border-style: solid;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-wrap: wrap; /* sirve para que las cajas bajen miestras la ventana se encoje*/
+    
+    
+    
+}
+.azul1
+{
+    border-color: blue;
+    border-style: solid;
+    width: 400px;
+    height: 610px;
+    margin: 10px;
+    
+}
+.fija1
+{
+    display: flex;
+}
+.fija2
+{
+    display: flex;
+}
+.a1
+{
+    border-color: rebeccapurple;
+    border-style: solid;
+    width: 180px;
+    height: 280px;
+    margin: 10px;
+}
+.azul2
+{
+    border-color: blue;
+    border-style: solid;
+    width: 500px;
+    height: 610px;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+   /* align-content: space-around;*/
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    
+}
+.a2
+{
+    border-color: rgb(25, 185, 33);
+    border-style: solid;
+    width: 100px;
+    height: 175px;
+    margin: 10px;
+    flex-grow: 5;
+
+    
+    
+  
+    
+}
+.d1
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 3;
+    
+}
+.d2
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 3;
+}
+.d3
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 3;
+}
+
+.azul3
+{
+    border-color: blue;
+    border-style: solid;
+    width: 340px;
+    height: 610px;
+    margin: 10px;
+
+}
+.p1
+{
+    display: flex;
+   
+    
+}
+.p2
+{
+    display: flex;
+    
+}
+.p3
+{
+    display: flex;
+    
+}
+.p4
+{
+    display: flex;
+    
+}
+.p11
+{
+    border-color: rgb(161, 226, 40);
+    border-style: solid;
+    width: 320px;
+    height: 80px;
+    margin: 10px;
+   
+    
+}
+.p22
+{
+    border-color: rgb(161, 226, 40);
+    border-style: solid;
+    width: 150px;
+    height: 166px;
+    margin: 10px;
+    
+   
+}
